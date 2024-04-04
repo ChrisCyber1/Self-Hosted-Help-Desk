@@ -10,7 +10,6 @@ This project details the setup of a self-serviced help desk system utilizing Doc
 
 - <b>Docker</b> 
 - <b>Peppermint Help Desk Software</b> 
-- <b>UVdesk Help Desk Software</b>
 
 <h2>Environments Used </h2>
 
